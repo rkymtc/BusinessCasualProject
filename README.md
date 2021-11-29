@@ -31,8 +31,8 @@ Sunucuyu çalıştırın
 ## Kullanılan Teknolojiler
 
 - React, React Router
- 
- 
+- Bootstrap
+
 
   
 ## Lisans
