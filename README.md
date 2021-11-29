@@ -18,13 +18,13 @@ Proje dizinine gidin
 Gerekli paketleri yükleyin
 
 ```bash
-  yarn install
+  npm install
 ```
 
 Sunucuyu çalıştırın
 
 ```bash
-  yarn start
+  npm start
 ```
 
   
