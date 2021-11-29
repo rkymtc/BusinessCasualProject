@@ -30,7 +30,7 @@ Sunucuyu çalıştırın
   
 ## Kullanılan Teknolojiler
 
-- React, React Router, Fetch
+- React, React Router
  
  
 
