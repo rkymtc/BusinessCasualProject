@@ -6,13 +6,13 @@
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/rkymtc/github
+  git clone https://github.com/rkymtc/BusinessCasualProject
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd github
+  cd businesscasualproject
 ```
 
 Gerekli paketleri yükleyin
