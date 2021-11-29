@@ -1,6 +1,6 @@
 # Github
 
-[Demo Github](https://businesscasualproject.netlify.app/product)
+[Demo](https://businesscasualproject.netlify.app)
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
