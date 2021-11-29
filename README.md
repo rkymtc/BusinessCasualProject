@@ -6,7 +6,7 @@
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/rkymtc/BusinessCasualProject
+  git clone https://github.com/rkymtc/businesscasualproject
 ```
 
 Proje dizinine gidin
