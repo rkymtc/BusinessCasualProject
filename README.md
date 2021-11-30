@@ -1,4 +1,4 @@
-# Github
+# BusinessCasualProject
 
 [Demo](https://businesscasualproject.netlify.app)
 ## Bilgisayarınızda Çalıştırın
