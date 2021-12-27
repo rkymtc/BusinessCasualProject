@@ -33,7 +33,6 @@ Sunucuyu çalıştırın
 - React, React Router
 - Bootstrap
 
-
   
 ## Lisans
 
